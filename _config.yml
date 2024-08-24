@@ -1,7 +1,7 @@
 lsi: false
 safe: true
 source: /root
-theme: jekyll-theme-minimal
+theme: cayman
 incremental: false
 highlighter: rouge
 gist:

@@ -10,7 +10,9 @@ Following are the prospects I am going to be working on. The links to their repo
     * a sample kind cluster hosted in a EC2 instance, or
     * an EKS/GKE/AKS cluster (whichever cloud account is cheaper, hehe)
 
-2. **Portfolio Application** -> Mostly to brush up on my Java/Spring Boot and React/Next.js(TypeScript) skills. The web app is supposed to be a publicly available resume and showcase for all these projects.
+2. **Portfolio Application** -> Mostly to brush up on my Java/Spring Boot and React/Next.js(TypeScript) skills. The web app is supposed to be a publicly available resume and showcase for all these projects. Following topics can be covered:
+ * Hosted on Kubernetes (ideally with logging and monitoring enabled via Prometheus and Grafana)
+ * Interacting with PostgreSQL and AWS using Spring Cloud
 
 3. **Opentelemetry** -> PoC of implementing Opentelemetry using Go and Python for hosted applications, and explore use-cases.
 

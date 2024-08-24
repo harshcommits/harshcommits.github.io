@@ -1,6 +1,7 @@
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: /root
+theme: jekyll-theme-minimal
 incremental: false
 highlighter: rouge
 gist:

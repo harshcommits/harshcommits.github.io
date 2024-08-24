@@ -13,6 +13,7 @@ Following are the prospects I am going to be working on. The links to their repo
 2. **Portfolio Application** -> Mostly to brush up on my Java/Spring Boot and React/Next.js(TypeScript) skills. The web app is supposed to be a publicly available resume and showcase for all these projects. Following topics can be covered:
  * Hosted on Kubernetes (ideally with logging and monitoring enabled via Prometheus and Grafana)
  * Interacting with PostgreSQL and AWS using Spring Cloud
+ * Definitely Unit testing
 
 3. **Opentelemetry** -> PoC of implementing Opentelemetry using Go and Python for hosted applications, and explore use-cases.
 
@@ -23,6 +24,8 @@ Following are the prospects I am going to be working on. The links to their repo
 * Connection to GitHub repo as source code repository
 * CI/CD framework (Jenkins and GitHub Actions)
 * Dependency check tooling (OWASP dependency-check, sonatype tooling maybe)
+* Unit Testing
+* SonarQube for code quality check
 * Container image scanning tooling (trivy)
 * Scanning deployment environment (kube-bench)
 * Hosting artifacts (Nexus/Artifactory)

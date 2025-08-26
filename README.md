@@ -20,7 +20,7 @@ Following are the prospects I am going to be working on. The links to their repo
 
 4.**GitOps based gardener-operator deployment** -> Looking at GitOps options to deploy gardener-operator using ArgoCD for helm charts and Garden resource.
 
-5.**E2E DevOps framework deployment via automation** -> Similar to what I worked with at Accenture, deploy an end-to-end DevOps that contains all the tools required for verifying and shipping the application on a cloud-native k8s environment. The tools would be following:
+5.**E2E DevOps framework deployment via automation** -> Similar to what I worked with in a previous job, deploy an end-to-end DevOps that contains all the tools required for verifying and shipping the application on a cloud-native k8s environment. The tools would be following:
 
 * Connection to GitHub repo as source code repository
 * CI/CD framework (Jenkins and GitHub Actions)
@@ -31,3 +31,9 @@ Following are the prospects I am going to be working on. The links to their repo
 * Scanning deployment environment (kube-bench)
 * Hosting artifacts (Nexus/Artifactory)
 * Load Testing (can look into [Vegeta](https://github.com/tsenart/vegeta))
+
+Better will be to set this up as a cohesive platform where all of this can be setup.
+
+6. **Temporal** - I really like this project; would be interesting to try something fun with this. Maybe the Portfolio application or the operator-based app development. 
+
+7. **AI Projects** - Could just start with a simple MCP server with half-decent options to handle workflows. Can also look into more complex stuff if I can find the time. 

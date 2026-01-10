@@ -37,3 +37,5 @@ Better will be to set this up as a cohesive platform where all of this can be se
 6. **Temporal** - I really like this project; would be interesting to try something fun with this. Maybe the Portfolio application or the operator-based app development. 
 
 7. **AI Projects** - Could just start with a simple MCP server with half-decent options to handle workflows. Can also look into more complex stuff if I can find the time. 
+
+8. **Video Processing Service** - I need to just know the dynamics of a video-streaming service and how the whole thing works, especially under load.

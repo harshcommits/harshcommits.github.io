@@ -34,7 +34,7 @@ Following are the prospects I am going to be working on. The links to their repo
 
 Better will be to set this up as a cohesive platform where all of this can be setup.
 
-6. **Temporal** - I really like this project; would be interesting to try something fun with this. Maybe the Portfolio application or the operator-based app development. 
+6. **Temporal** - I really like this project; would be interesting to try something fun with this. Maybe the Portfolio application or the operator-based app development. Eventually up-skill enough that I can contribute to the project directly.
 
 7. **AI Projects** - Could just start with a simple MCP server with half-decent options to handle workflows. Can also look into more complex stuff if I can find the time. 
 
